@@ -1,0 +1,16 @@
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.deps.json
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.dll
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.pdb
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.AssemblyInfoInputs.cache
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.AssemblyInfo.cs
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.dll
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.pdb
+C:\Users\juan.pech\source\repos\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.deps.json
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\bin\Debug\netstandard2.0\BuilderPaquetería.pdb
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.AssemblyInfoInputs.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.AssemblyInfo.cs
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderPaquetería\obj\Debug\netstandard2.0\BuilderPaquetería.pdb

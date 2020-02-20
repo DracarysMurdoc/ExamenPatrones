@@ -1,0 +1,16 @@
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csprojAssemblyReference.cache
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\juan.pech\source\repos\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\Infraestructure\obj\Debug\netstandard2.0\Infraestructure.pdb

@@ -1,0 +1,16 @@
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.deps.json
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.dll
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.pdb
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.csprojAssemblyReference.cache
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.AssemblyInfoInputs.cache
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.AssemblyInfo.cs
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.dll
+C:\Users\juan.pech\source\repos\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.pdb
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.deps.json
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\bin\Debug\netstandard2.0\BuilderExpressions.pdb
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.AssemblyInfoInputs.cache
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.AssemblyInfo.cs
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.dll
+C:\Users\juan.pech\Documents\GitHub\AliExpress\BuilderExpressions\obj\Debug\netstandard2.0\BuilderExpressions.pdb
